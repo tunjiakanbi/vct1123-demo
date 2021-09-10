@@ -1,1 +1,1 @@
-import bootstrap from 'bootstrap'
+import bootstrap from 'node_modules/bootstrap/js';
