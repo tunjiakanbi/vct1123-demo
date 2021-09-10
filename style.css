@@ -1,0 +1,11 @@
+@import url("node_modules/bootstrap/dist/css/bootstrap.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap');
+ #main-content {
+    height: 100vh;
+    background-image: var(--bs-gradient);
+}
+
+#heading1 {
+    font-family: 'Saira Stencil One', cursive;
+    background-image: var(--bs-gradient);
+}
