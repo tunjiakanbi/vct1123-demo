@@ -10,4 +10,8 @@
     /* background-image: var(--bs-gradient); */
     word-spacing: 0.25em;
     text-shadow: 4px 4px 10px grey;
+    border-radius: 0.25em !important;
+}
+.welcome {
+    letter-spacing: 0.2em;
 }
