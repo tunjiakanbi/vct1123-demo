@@ -1,0 +1,79 @@
+
+    * {
+        margin: 0;
+        padding: 0;
+    } 
+    
+    
+    div.container {
+        background-color: aquamarine;
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    section {
+        width: 80%;
+        height: 80%;
+        background-color: white;
+        padding: 2em;
+    }
+    p {
+        font-family: 'IBM Plex Sans', sans-serif; 
+        background-color: aquamarine;
+        width: 768px;
+        height: 320px;
+    }
+    b {
+        font-size: 1.5em;
+        background-color: burlywood;
+    }
+    body {
+        font-size: 2em;
+        font-family: 'Josefin Sans', sans-serif;
+    } 
+    
+    nav ul {
+        display: flex;
+        width: 80%;
+        padding: 0 2em;
+    }
+    nav ul li {
+        list-style: none;
+    }
+    nav ul li a {
+        text-decoration: none;
+        margin: 0 0.5em;
+        font-family: 'Anton', sans-serif;
+        color: rgb(100,100,100);
+    }
+    nav ul li a:hover {
+        color: blueviolet;
+    }
+    
+    #phrase {
+        font-family: 'Josefin Sans', sans-serif;
+        margin-top: 0.5em;
+        font-size: 3.5em;
+        padding: 0.5em;
+    }
+    
+    #myBtn {
+        margin-top:1em;
+        width: 150px;
+        height:150px;
+        border-radius: 50%;
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: .75em;
+        color: rgb(100,100,100);
+        background-color: aquamarine;
+    }
+    /* font-family: 'Anton', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif; */
+
+    #demo-child {
+        font-size: 5em;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+     
