@@ -25,3 +25,16 @@ paragraph.innerHTML = lyrics
 // document.write(lyrics);
 var names = ["Callie","Ryan","Justin D", "Justin Z"];
 console.log(names);
+let xx = 12;
+let yy = 24;
+let zz = xx + yy;
+console.log(zz);
+const $name = "Tunji Akanbi";
+var $role = " is your Instructor";
+
+console.log($name + $role);
+var role = document.getElementById("myrole");
+console.log(role);
+//role.innerHTML($name + $role);
+document.getElementById("myrole").innerHTML = $name + $role
+ 
